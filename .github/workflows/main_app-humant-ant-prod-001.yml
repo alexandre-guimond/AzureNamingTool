@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'app-humant-ant-prod-001'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_870BCEC63EB846D6B1DFDDB8F0F38CD2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9EF780FCEA194F089E99353350F9AED4 }}
           package: .
